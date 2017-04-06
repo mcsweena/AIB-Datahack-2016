@@ -25,6 +25,6 @@ Next, I took the dimensionality traits of the house as featrues to use;
 GroundFloorArea, AvgWallU, AvgRoofU, AvgFloorU, AvgWindowU, AvgDoorU.
 
 I first ran a small test to look at the number of null cells in each column.
-AvgWallU stood out immediately here with over 46000 empty cells. This
-will not be useful for prediction so I will remove it as an option.
+AvgWallU and GroundFloorU stood out immediately here with over 46000 empty cells.
+These will not be useful for prediction so I will remove them as an option.
 
