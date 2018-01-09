@@ -54,10 +54,10 @@ def remove_null_columns(data):
     cols_to_drop.append('EnergyRatingCont')
     num_cols = cols_to_drop
 
-    new_df = new_df.drop(cols_to_drop, axis=1)
-    print("New df len: ", len(new_df.columns))
+    new_df_float = new_df.drop(cols_to_drop, axis=1)
+    print("New df len: ", len(new_df_float.columns))
 
-    return new_df
+    return new_df_float
 
 def plot_nulls(data):
     null_dict = {}
