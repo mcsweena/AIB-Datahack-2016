@@ -9,7 +9,7 @@
 ### Objective
 During my recent career break, where I returned to college to study for an M.Sc in Business Analytics at UCD Smurfit, myself and my good buddy [Pete](https://twitter.com/padams02) decided to take on the AIB Datahack which was held in, I think, November 2016. The Datahack was hosted by AIB in their head office in Dublin 4, and consisted of a full days work (8 hours) tackling a machine learning problem.
 
-The challenge we were presented with that morning was a supervised learning problem. Armed with only our laptops, the following challange was presented to us: Could we find a method to accurately predict energy ratings for houses in Ireland based on a set of characteristics that the house had. We went into the competition confident that we knew what we were doing, but it quickly dawned on us that we still had a lot to learn. All in all, it proved to be a very worthwhile experience and focused us both on what we needed to learn over the coming months.
+The challenge we were presented with that morning was a supervised learning problem. Armed with only our laptops, the following challange was presented to us: **Could we find a method to accurately predict energy ratings for houses in Ireland based on a set of characteristics that the house had.** We went into the competition confident that we knew what we were doing, but it quickly dawned on us that we still had a lot to learn. All in all, it proved to be a very worthwhile experience and focused us both on what we needed to learn over the coming months.
 
 Now that I've completed my course and have returned to work, I'm going to try and tackle the problem again in my spare time, and see if I can do a little better this time around.
 
