@@ -1,5 +1,21 @@
 # AIB DataHack
 
+### Completed Notebooks
+
+##### Part 1 - Initial Data Exploration 
+
+Link - TBD
+
+
+
+### Notebooks In Progress
+
+##### Part 2 - Deeper Exploration
+
+
+
+### Challenge
+
 In our Datathon challenge, you will be required to use analytical tools and machine learning models to solve an energy related problem. The challenge will not be revealed until the day of the event.
 
 Participants will be required to prepare a dataset for analysis (the raw data for the challenge will be supplied to everyone on USB sticks) and to solve a problem based on this data. The problem has been chosen to be solvable using a large assortment of different analytical techniques, from using only SQL commands to advanced machine learning.
